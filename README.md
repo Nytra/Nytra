@@ -19,8 +19,8 @@ Programmer with interest in C/C++, Python, JavaScript/TypeScript.
 
 I usually make games, gui, graphics demos, useful scripts for personal use. Often creative-type and visual-type stuff.
 
-Also making music sometimes: ![SoundCloud](https://soundcloud.com/nytra-xr)
+Also making music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
 
-Reach me at email: ![samueltscott@gmail.com](mailto:samueltscott@gmail.com)
+Reach me at email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
 
 ![Nyan Cat](https://wallpapercave.com/wp/wp1833274.png)
