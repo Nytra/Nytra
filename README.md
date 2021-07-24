@@ -23,4 +23,4 @@ Also making music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
 
 Reach me at email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
 
-![Nyan Cat](https://wallpapercave.com/wp/wp1833274.png)
+<!--![Nyan Cat](https://wallpapercave.com/wp/wp1833274.png)-->
