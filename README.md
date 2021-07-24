@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Programmer with interest in C/C++, Python, JavaScript/TypeScript.
 
-I usually make games, gui, graphics demos, useful scripts for personal use. Often creative-type and visual-type stuff.
+I usually make games, gui, graphics demos, useful helper scripts. Often creative-type and visual-type stuff.
 
 Also making music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
 
