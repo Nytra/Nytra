@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Programmer with interest in C/C++, Python, JavaScript/TypeScript.
+I usually make games, gui, graphics demos, helper scripts.
 
-I usually make games, gui, graphics demos, useful helper scripts. Often creative-type and visual-type stuff.
+I also make music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
 
-Also making music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
-
-Reach me at email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
+My email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
 
 <!--![Nyan Cat](https://wallpapercave.com/wp/wp1833274.png)-->
