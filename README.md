@@ -19,6 +19,8 @@ I usually make games, gui, graphics demos, helper scripts.
 
 I also make music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
 
+<!--
 My email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
+-->
 
 <!--![Nyan Cat](https://wallpapercave.com/wp/wp1833274.png)-->
