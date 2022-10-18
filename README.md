@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Nytra/Nytra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I usually make games, gui, graphics demos, helper scripts.
+I make the computer do the thing (sometimes).
 
-I also make music sometimes: [SoundCloud](https://soundcloud.com/nytra-xr)
+I also make music: [SoundCloud](https://soundcloud.com/nytra-xr)
 
 <!--
 My email: [samueltscott@gmail.com](mailto:samueltscott@gmail.com)
